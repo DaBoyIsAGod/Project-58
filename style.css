@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background: linear-gradient( #2dfdc3 0%,#c122c3 100%);
+	background-repeat:no-repeat;
+}
+
+img
+{
+  border-radius:70%;
+  width:150px;
+}
+
+
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+}
+
+
+p{
+  font-size:18px;
+  color:Orange;
+  
+    
+}
+h2{
+  font-size:20px;
+  color:#1A237E;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+#bio{
+    padding:20px;
+    font-size:18;
+    text-align:center;
+    background: linear-gradient( #2c46c2 0%, #2dfd80 100%)
+}
+.Menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    cursor: pointer;
+    color: black;
+}
